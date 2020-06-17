@@ -1,0 +1,74 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:appcompat-v7:25.3.1</package>
+    <package>com.android.support:cardview-v7:25.3.1</package>
+    <package>com.android.support:customtabs:25.3.1</package>
+    <package>com.android.support:support-v4:25.3.1</package>
+    <package>com.facebook.android:facebook-applinks:[6.2.0, 7)</package>
+    <package>com.facebook.android:facebook-core:[6.2.0, 7)</package>
+    <package>com.facebook.android:facebook-gamingservices:[6.2.0, 7)</package>
+    <package>com.facebook.android:facebook-login:[6.2.0, 7)</package>
+    <package>com.facebook.android:facebook-share:[6.2.0, 7)</package>
+    <package>com.parse.bolts:bolts-android:1.4.0</package>
+  </packages>
+  <files>
+    <file>Assets/Plugins/Android/android.arch.core.common-1.1.1.jar</file>
+    <file>Assets/Plugins/Android/android.arch.core.runtime-1.1.1.aar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.common-1.1.1.jar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.livedata-1.1.1.aar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.livedata-core-1.1.1.aar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.1.1.aar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.viewmodel-1.1.1.aar</file>
+    <file>Assets/Plugins/Android/com.android.installreferrer.installreferrer-1.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.animated-vector-drawable-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.appcompat-v7-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.asynclayoutinflater-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.cardview-v7-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.collections-28.0.0.jar</file>
+    <file>Assets/Plugins/Android/com.android.support.coordinatorlayout-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.cursoradapter-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.customtabs-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.customview-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.documentfile-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.drawerlayout-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.interpolator-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.loader-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.localbroadcastmanager-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.print-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.slidingpanelayout-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-annotations-28.0.0.jar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-compat-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-core-ui-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-core-utils-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-fragment-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-media-compat-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-v4-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-vector-drawable-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.swiperefreshlayout-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.versionedparcelable-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.viewpager-28.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-applinks-6.5.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-common-6.5.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-core-6.5.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-gamingservices-6.5.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-login-6.5.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-share-6.5.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.zxing.core-3.3.3.jar</file>
+    <file>Assets/Plugins/Android/com.parse.bolts.bolts-android-1.4.0.jar</file>
+    <file>Assets/Plugins/Android/com.parse.bolts.bolts-applinks-1.4.0.jar</file>
+    <file>Assets/Plugins/Android/com.parse.bolts.bolts-tasks-1.4.0.jar</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="armeabi-v7a" />
+    <setting name="bundleId" value="com.Playscent.Escape" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="False" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="False" />
+  </settings>
+</dependencies>
