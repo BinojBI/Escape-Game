@@ -6,7 +6,7 @@ In Escape, player act as a theif. He robbed the city shops & escape city. As a r
 Player can collect lives & sheilds. lives increse your health (you have maximum 5 lives). Sheild protect you from road blocks, spells & enemies. 
 
 ## Installation
-Install the apk(27mb) from latest build folder.
+Install the apk (27mb) from latest build folder.</br> 
 Supported : Android
 
 ## Performance Strategies
