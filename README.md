@@ -13,3 +13,9 @@ Supported : Android
 * Lowpoly model used to reduce heavy of app. 
 * Objcet poolers used to minimize instantiations & destroy game objects, it will reduce drawcalls of game & improve efficiency as well. There are 2 object poolers are used for Building spawner & Road objects spawner.
 
+## Screenshots
+
+![MainMenu](https://imgur.com/BTdsarV.jpg)
+![Instructions](https://imgur.com/YzvgerR.jpg)
+![Game](https://imgur.com/nPUIyHn.jpg)
+![Results](https://imgur.com/0OWL6fd.jpg)
