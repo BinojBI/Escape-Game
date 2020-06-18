@@ -16,6 +16,6 @@ Supported : Android
 ## Screenshots
 
 ![MainMenu](https://imgur.com/rNwPnDH.jpg)
-![Instructions](https://imgur.com/YzvgerR.jpg)
-![Game](https://imgur.com/nPUIyHn.jpg)
-![Results](https://imgur.com/0OWL6fd.jpg)
+![Instructions](https://imgur.com/iU7AxDD.jpg)
+![Game](https://imgur.com/wDeNABW.jpg)
+![Results](https://imgur.com/httpqqv.jpg)
